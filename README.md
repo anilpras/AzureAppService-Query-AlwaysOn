@@ -1,5 +1,5 @@
-# Fetch AutoHeal setting for sites belongs to a subscription
-How to know if 'auto heal' is enabled for all the site within the subscription
+# Fetch AlwaysOn setting for sites belongs to a subscription
+How to know if 'auto heal' is enabled for all the sites within the subscription
 
 
 **Approach #1**
